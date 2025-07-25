@@ -38,7 +38,7 @@
 
 ### Opción 2: Código Fuente
 ```bash
-git clone https://github.com/TU_USUARIO/MyAutoclicker.git
+git clone https://github.com/BenGFly/MyAutoclicker.git
 cd MyAutoclicker
 ```
 
@@ -180,8 +180,8 @@ Para reportar bugs o solicitar features, abre un [issue](../../issues).
 
 ## 📞 Contacto
 
-- 💬 Discord: [Tu Discord]
-- 📧 Email: [Tu Email]
+- 💬 Discord: [bengfly]
+- 📧 Email: [bengflyp@gmail.com]
 - 🐙 GitHub: [@BenGFly](https://github.com/BenGFly)
 
 ---
